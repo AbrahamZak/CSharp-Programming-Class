@@ -1,0 +1,68 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="6000">
+    <ol class="carousel-indicators">
+        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+        <li data-target="#myCarousel" data-slide-to="1"></li>
+        <li data-target="#myCarousel" data-slide-to="2"></li>
+    </ol>
+    <div class="carousel-inner" role="listbox">
+        <div class="item active">
+            <img src="https://wvtourism.com/wp-content/uploads/2018/04/3144431-shrek2-480x240.jpg" alt="ASP.NET" class="img-responsive" />
+            <div class="carousel-caption" role="option">
+            </div>
+        </div>
+        <div class="item">
+            <img src="http://listverse.com/wp-content/uploads/2018/03/10a-harry-potter-main-characters.jpg" alt="Visual Studio" class="img-responsive" />
+            <div class="carousel-caption" role="option">
+            </div>
+        </div>
+        <div class="item">
+            <img src="https://i.amz.mshcdn.com/O8rMOJtTmcjAJSkJtdbJUAC100g=/950x534/filters:quality(90)/https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com%2Fuploads%2Fcard%2Fimage%2F675031%2Fbbb3432c-5253-4fa8-bb03-35b4d1b9ce23.jpg" alt="Microsoft Azure" class="img-responsive" />
+            <div class="carousel-caption" role="option">
+            </div>
+        </div>
+    </div>
+    <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+    </a>
+    <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+    </a>
+</div>
+
+<div class="row">
+    <div class="col-md-3">
+        <h2>External Movie Websites</h2>
+    </div>
+    <div class="col-md-3">
+        <h2>Movie Reviews</h2>
+        <ul>
+            <li><a href="https://www.rottentomatoes.com/">Rotten Tomatoes</a></li>
+            <li><a href="https://www.rogerebert.com/">Roger Ebert</a></li>
+            <li><a href="https://www.metacritic.com/movie">Metacritic</a></li>
+        </ul>
+    </div>
+    <div class="col-md-3">
+        <h2>Movie News</h2>
+        <ul>
+            <li><a href="https://screenrant.com/">Screen Rant</a></li>
+            <li><a href="https://www.reddit.com/r/movies">Reddit Movies Sub</a></li>
+            <li><a href="https://www.cinemablend.com/news.php">Cinema Blend</a></li>
+        </ul>
+    </div>
+    <div class="col-md-3">
+        <h2>Watch Movies</h2>
+        <ul>
+            <li><a href="https://www.netflix.com/">Netflix</a></li>
+            <li><a href="https://www.hulu.com/">Hulu</a></li>
+            <li><a href="https://www.amazon.com/Prime-Video/b?ie=UTF8&node=2676882011">Amazon Prime Video</a></li>
+        </ul>
+    </div>
+</div>

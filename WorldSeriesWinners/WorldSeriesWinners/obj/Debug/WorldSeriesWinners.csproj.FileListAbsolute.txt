@@ -1,0 +1,10 @@
+C:\Users\Abraham\source\repos\WorldSeriesWinners\WorldSeriesWinners\bin\Debug\WorldSeriesWinners.exe.config
+C:\Users\Abraham\source\repos\WorldSeriesWinners\WorldSeriesWinners\bin\Debug\WorldSeriesWinners.exe
+C:\Users\Abraham\source\repos\WorldSeriesWinners\WorldSeriesWinners\bin\Debug\WorldSeriesWinners.pdb
+C:\Users\Abraham\source\repos\WorldSeriesWinners\WorldSeriesWinners\obj\Debug\WorldSeriesWinners.csprojAssemblyReference.cache
+C:\Users\Abraham\source\repos\WorldSeriesWinners\WorldSeriesWinners\obj\Debug\WorldSeriesWinners.Form1.resources
+C:\Users\Abraham\source\repos\WorldSeriesWinners\WorldSeriesWinners\obj\Debug\WorldSeriesWinners.Properties.Resources.resources
+C:\Users\Abraham\source\repos\WorldSeriesWinners\WorldSeriesWinners\obj\Debug\WorldSeriesWinners.csproj.GenerateResource.cache
+C:\Users\Abraham\source\repos\WorldSeriesWinners\WorldSeriesWinners\obj\Debug\WorldSeriesWinners.csproj.CoreCompileInputs.cache
+C:\Users\Abraham\source\repos\WorldSeriesWinners\WorldSeriesWinners\obj\Debug\WorldSeriesWinners.exe
+C:\Users\Abraham\source\repos\WorldSeriesWinners\WorldSeriesWinners\obj\Debug\WorldSeriesWinners.pdb

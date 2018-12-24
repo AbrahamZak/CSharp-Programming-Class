@@ -1,0 +1,10 @@
+C:\Users\Abraham\source\repos\DrinkVendingMachineSimulator\DrinkVendingMachineSimulator\bin\Debug\DrinkVendingMachineSimulator.exe.config
+C:\Users\Abraham\source\repos\DrinkVendingMachineSimulator\DrinkVendingMachineSimulator\bin\Debug\DrinkVendingMachineSimulator.exe
+C:\Users\Abraham\source\repos\DrinkVendingMachineSimulator\DrinkVendingMachineSimulator\bin\Debug\DrinkVendingMachineSimulator.pdb
+C:\Users\Abraham\source\repos\DrinkVendingMachineSimulator\DrinkVendingMachineSimulator\obj\Debug\DrinkVendingMachineSimulator.csprojAssemblyReference.cache
+C:\Users\Abraham\source\repos\DrinkVendingMachineSimulator\DrinkVendingMachineSimulator\obj\Debug\DrinkVendingMachineSimulator.Form1.resources
+C:\Users\Abraham\source\repos\DrinkVendingMachineSimulator\DrinkVendingMachineSimulator\obj\Debug\DrinkVendingMachineSimulator.Properties.Resources.resources
+C:\Users\Abraham\source\repos\DrinkVendingMachineSimulator\DrinkVendingMachineSimulator\obj\Debug\DrinkVendingMachineSimulator.csproj.GenerateResource.cache
+C:\Users\Abraham\source\repos\DrinkVendingMachineSimulator\DrinkVendingMachineSimulator\obj\Debug\DrinkVendingMachineSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Abraham\source\repos\DrinkVendingMachineSimulator\DrinkVendingMachineSimulator\obj\Debug\DrinkVendingMachineSimulator.exe
+C:\Users\Abraham\source\repos\DrinkVendingMachineSimulator\DrinkVendingMachineSimulator\obj\Debug\DrinkVendingMachineSimulator.pdb

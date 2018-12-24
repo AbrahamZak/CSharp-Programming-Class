@@ -1,0 +1,10 @@
+C:\Users\Abraham\source\repos\ChapterTwoAssignment\ChapterTwoAssignment\bin\Debug\ChapterTwoAssignment.exe.config
+C:\Users\Abraham\source\repos\ChapterTwoAssignment\ChapterTwoAssignment\bin\Debug\ChapterTwoAssignment.exe
+C:\Users\Abraham\source\repos\ChapterTwoAssignment\ChapterTwoAssignment\bin\Debug\ChapterTwoAssignment.pdb
+C:\Users\Abraham\source\repos\ChapterTwoAssignment\ChapterTwoAssignment\obj\Debug\ChapterTwoAssignment.csprojAssemblyReference.cache
+C:\Users\Abraham\source\repos\ChapterTwoAssignment\ChapterTwoAssignment\obj\Debug\ChapterTwoAssignment.Form1.resources
+C:\Users\Abraham\source\repos\ChapterTwoAssignment\ChapterTwoAssignment\obj\Debug\ChapterTwoAssignment.Properties.Resources.resources
+C:\Users\Abraham\source\repos\ChapterTwoAssignment\ChapterTwoAssignment\obj\Debug\ChapterTwoAssignment.csproj.GenerateResource.cache
+C:\Users\Abraham\source\repos\ChapterTwoAssignment\ChapterTwoAssignment\obj\Debug\ChapterTwoAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Abraham\source\repos\ChapterTwoAssignment\ChapterTwoAssignment\obj\Debug\ChapterTwoAssignment.exe
+C:\Users\Abraham\source\repos\ChapterTwoAssignment\ChapterTwoAssignment\obj\Debug\ChapterTwoAssignment.pdb

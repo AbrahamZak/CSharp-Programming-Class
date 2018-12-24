@@ -1,0 +1,10 @@
+C:\Users\Abraham\source\repos\ChapterThreeAssignment\ChapterThreeAssignment\bin\Debug\ChapterThreeAssignment.exe.config
+C:\Users\Abraham\source\repos\ChapterThreeAssignment\ChapterThreeAssignment\bin\Debug\ChapterThreeAssignment.exe
+C:\Users\Abraham\source\repos\ChapterThreeAssignment\ChapterThreeAssignment\bin\Debug\ChapterThreeAssignment.pdb
+C:\Users\Abraham\source\repos\ChapterThreeAssignment\ChapterThreeAssignment\obj\Debug\ChapterThreeAssignment.csprojAssemblyReference.cache
+C:\Users\Abraham\source\repos\ChapterThreeAssignment\ChapterThreeAssignment\obj\Debug\ChapterThreeAssignment.Form1.resources
+C:\Users\Abraham\source\repos\ChapterThreeAssignment\ChapterThreeAssignment\obj\Debug\ChapterThreeAssignment.Properties.Resources.resources
+C:\Users\Abraham\source\repos\ChapterThreeAssignment\ChapterThreeAssignment\obj\Debug\ChapterThreeAssignment.csproj.GenerateResource.cache
+C:\Users\Abraham\source\repos\ChapterThreeAssignment\ChapterThreeAssignment\obj\Debug\ChapterThreeAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Abraham\source\repos\ChapterThreeAssignment\ChapterThreeAssignment\obj\Debug\ChapterThreeAssignment.exe
+C:\Users\Abraham\source\repos\ChapterThreeAssignment\ChapterThreeAssignment\obj\Debug\ChapterThreeAssignment.pdb

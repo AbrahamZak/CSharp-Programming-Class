@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="RazorPagesMovie20181210064600" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\Abraham\\source\\repos\\RazorPagesMovie\\RazorPagesMovie\\obj\\Release\\netcoreapp2\.1\\PubTmp\\Out\\$" />
+  </parameter>
+  <parameter name="RazorPagesMovie.Models.RazorPagesMovieContext" description="" value="Data Source=tcp:razorpagesmovie20181210064600dbserver.database.windows.net,1433;Initial Catalog=RazorPagesMovie20181210064600_db;User Id=sqladmin@razorpagesmovie20181210064600dbserver;Password=Abby12345" tags="dbfullsql">
+    <parameterEntry kind="ProviderPath" scope="dbfullsql" match="^C:\\Users\\Abraham\\source\\repos\\RazorPagesMovie\\RazorPagesMovie\\obj\\Release\\netcoreapp2\.1\\PubTmp\\EFSQLScripts\\RazorPagesMovie\.Models\.RazorPagesMovieContext\.sql$" />
+  </parameter>
+</parameters>

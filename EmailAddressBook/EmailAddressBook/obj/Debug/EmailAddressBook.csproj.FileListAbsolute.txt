@@ -1,0 +1,11 @@
+C:\Users\Abraham\source\repos\EmailAddressBook\EmailAddressBook\bin\Debug\EmailAddressBook.exe.config
+C:\Users\Abraham\source\repos\EmailAddressBook\EmailAddressBook\bin\Debug\EmailAddressBook.exe
+C:\Users\Abraham\source\repos\EmailAddressBook\EmailAddressBook\bin\Debug\EmailAddressBook.pdb
+C:\Users\Abraham\source\repos\EmailAddressBook\EmailAddressBook\obj\Debug\EmailAddressBook.csprojAssemblyReference.cache
+C:\Users\Abraham\source\repos\EmailAddressBook\EmailAddressBook\obj\Debug\EmailAddressBook.Form1.resources
+C:\Users\Abraham\source\repos\EmailAddressBook\EmailAddressBook\obj\Debug\EmailAddressBook.Properties.Resources.resources
+C:\Users\Abraham\source\repos\EmailAddressBook\EmailAddressBook\obj\Debug\EmailAddressBook.csproj.GenerateResource.cache
+C:\Users\Abraham\source\repos\EmailAddressBook\EmailAddressBook\obj\Debug\EmailAddressBook.csproj.CoreCompileInputs.cache
+C:\Users\Abraham\source\repos\EmailAddressBook\EmailAddressBook\obj\Debug\EmailAddressBook.exe
+C:\Users\Abraham\source\repos\EmailAddressBook\EmailAddressBook\obj\Debug\EmailAddressBook.pdb
+C:\Users\Abraham\source\repos\EmailAddressBook\EmailAddressBook\obj\Debug\EmailAddressBook.Form2.resources

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAnGuozHpMnE+/VBVhE3MuTwAAAAACAAAAAAAQZgAAAAEAACAAAAATFV7LpAHKIZu8689gYIQQvF85jS2+T6rkLhXVqjkCfQAAAAAOgAAAAAIAACAAAADhcXz9w+k3c0TgOqqhGRB2C4/9hBXEcCqn2Oglpfm1wIAAAAB4UYrcpzYNDiBD5nyyDuywBf8ZzWi79XW4LuTYERrYfFoz1feFviW3No4cW5jJIhG+PiO2+eC69RCGehGVTtGYZCTAdwAbmTo39AuTobBtWs5PauPn07ZD5IXkJG6nGW7RiMqMYzlpfo/713vy5e4M3T2Q1gwT5bnCTOlWAAcw3UAAAADOgit5uh2RnXOMFasJ58Bfk7KFrKY35Ew544VJ1bNcgFGwKb5mTP45LZK72aVvvSSL/uzx8WO2MI+BQ0HdI1Tn</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="RazorPagesMovieContext">
+      <Value>Data Source=tcp:razorpagesmovie20181210064600dbserver.database.windows.net,1433%3bInitial Catalog=RazorPagesMovie20181210064600_db%3bUser Id=sqladmin%40razorpagesmovie20181210064600dbserver%3bPassword=Abby12345</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="RazorPagesMovie.Models.RazorPagesMovieContext">
+      <Value>Data Source=tcp:razorpagesmovie20181210064600dbserver.database.windows.net,1433%3bInitial Catalog=RazorPagesMovie20181210064600_db%3bUser Id=sqladmin%40razorpagesmovie20181210064600dbserver%3bPassword=Abby12345</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

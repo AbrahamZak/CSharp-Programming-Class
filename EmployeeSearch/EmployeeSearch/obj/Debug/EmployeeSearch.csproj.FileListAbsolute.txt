@@ -1,0 +1,12 @@
+C:\Users\Abraham\source\repos\EmployeeSearch\EmployeeSearch\bin\Debug\Personnel.mdf
+C:\Users\Abraham\source\repos\EmployeeSearch\EmployeeSearch\bin\Debug\Personnel_log.ldf
+C:\Users\Abraham\source\repos\EmployeeSearch\EmployeeSearch\bin\Debug\EmployeeSearch.exe.config
+C:\Users\Abraham\source\repos\EmployeeSearch\EmployeeSearch\bin\Debug\EmployeeSearch.exe
+C:\Users\Abraham\source\repos\EmployeeSearch\EmployeeSearch\bin\Debug\EmployeeSearch.pdb
+C:\Users\Abraham\source\repos\EmployeeSearch\EmployeeSearch\obj\Debug\EmployeeSearch.csprojAssemblyReference.cache
+C:\Users\Abraham\source\repos\EmployeeSearch\EmployeeSearch\obj\Debug\EmployeeSearch.Form1.resources
+C:\Users\Abraham\source\repos\EmployeeSearch\EmployeeSearch\obj\Debug\EmployeeSearch.Properties.Resources.resources
+C:\Users\Abraham\source\repos\EmployeeSearch\EmployeeSearch\obj\Debug\EmployeeSearch.csproj.GenerateResource.cache
+C:\Users\Abraham\source\repos\EmployeeSearch\EmployeeSearch\obj\Debug\EmployeeSearch.csproj.CoreCompileInputs.cache
+C:\Users\Abraham\source\repos\EmployeeSearch\EmployeeSearch\obj\Debug\EmployeeSearch.exe
+C:\Users\Abraham\source\repos\EmployeeSearch\EmployeeSearch\obj\Debug\EmployeeSearch.pdb

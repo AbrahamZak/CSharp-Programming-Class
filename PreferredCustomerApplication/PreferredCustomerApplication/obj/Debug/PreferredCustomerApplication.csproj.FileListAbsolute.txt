@@ -1,0 +1,10 @@
+C:\Users\Abraham\source\repos\PreferredCustomerApplication\PreferredCustomerApplication\bin\Debug\PreferredCustomerApplication.exe.config
+C:\Users\Abraham\source\repos\PreferredCustomerApplication\PreferredCustomerApplication\bin\Debug\PreferredCustomerApplication.exe
+C:\Users\Abraham\source\repos\PreferredCustomerApplication\PreferredCustomerApplication\bin\Debug\PreferredCustomerApplication.pdb
+C:\Users\Abraham\source\repos\PreferredCustomerApplication\PreferredCustomerApplication\obj\Debug\PreferredCustomerApplication.csprojAssemblyReference.cache
+C:\Users\Abraham\source\repos\PreferredCustomerApplication\PreferredCustomerApplication\obj\Debug\PreferredCustomerApplication.Form1.resources
+C:\Users\Abraham\source\repos\PreferredCustomerApplication\PreferredCustomerApplication\obj\Debug\PreferredCustomerApplication.Properties.Resources.resources
+C:\Users\Abraham\source\repos\PreferredCustomerApplication\PreferredCustomerApplication\obj\Debug\PreferredCustomerApplication.csproj.GenerateResource.cache
+C:\Users\Abraham\source\repos\PreferredCustomerApplication\PreferredCustomerApplication\obj\Debug\PreferredCustomerApplication.csproj.CoreCompileInputs.cache
+C:\Users\Abraham\source\repos\PreferredCustomerApplication\PreferredCustomerApplication\obj\Debug\PreferredCustomerApplication.exe
+C:\Users\Abraham\source\repos\PreferredCustomerApplication\PreferredCustomerApplication\obj\Debug\PreferredCustomerApplication.pdb
